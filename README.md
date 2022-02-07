@@ -30,9 +30,28 @@ Objetivo Específico
 11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para
 obtener un voltaje secundario de 6 V de ca?
 
+Vsec = nVpri                                                                                                                                                                     
+6V = 0.1xVpri                                                                                                                                                                     
+Vpri = 6V/0.1
+
+**Vpri = 60V**
+
 13. Determine las lecturas de medidor no especificadas en la figura 14-44
 
 ![image](https://user-images.githubusercontent.com/93734334/152267595-bb0a3db1-2fb6-4799-873f-5ee23812437c.png)
+
+**Respuesta**
+
+(a) Vsec = nVpri                                                                                                                                                                 
+Vsec = (1/10)100
+
+**(a) = 10V**
+
+(b) Vsec = nVpri                                                                                                                                                                 
+12 = (1/20)Vpri                                                                                                                                                                   
+Vpri = 12x20
+
+**(b) = 240V**
 
 15. Determine las siguientes cantidades en la figura 14-46.
 
@@ -41,15 +60,43 @@ obtener un voltaje secundario de 6 V de ca?
 
 ![image](https://user-images.githubusercontent.com/93734334/152267676-39089dcb-4cc3-4376-800e-55dfe68776a9.png)
 
+**Respuesta**
+
+(a)
+**25mA**
+
+(b)
+**50mA**
+
+(c)
+**15**
+
+(d)
+**750mW**
+
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?
 
 ![image](https://user-images.githubusercontent.com/93734334/152267759-e5cd8044-7f4d-490f-81c9-4414f9267cbd.png)
+
+Rpri = (1/n)^2 x RL                                                                                                                                                               
+300 = (1/n)^2 x 1000                                                                                                                                                             
+300 = 1000/n^2                                                                                                                                                                   
+n^2 = 10/3
+
+**n = 1.83**
 
 **SECCIÓN 14–6 Igualación de impedancia**
 
 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Æ?
 
 ![image](https://user-images.githubusercontent.com/93734334/152267832-99a5b85b-7211-4d2e-b34c-442b94494b8e.png)
+
+Rpri = (1/n)^2 x Rl
+n^2 = RL/Rpri
+n^2 = 4/16
+n = 0.5
+
+**9.76W**
 
 **SECCIÓN 14–7 Características de un transformador no ideal**
 
@@ -58,6 +105,12 @@ obtener un voltaje secundario de 6 V de ca?
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+
+IL = Psec/Vsec                                                                                                                                                                  
+10A = Psec/2.5KV                                                                                                                                                                 
+Psec  = 10A x 2.5KV
+
+**Psec= 25KVA**
 
 **SECCIÓN 14–8 Transformadores con tomas y devanados múltiples**
 
