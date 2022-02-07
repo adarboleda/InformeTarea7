@@ -91,9 +91,9 @@ n^2 = 10/3
 
 ![image](https://user-images.githubusercontent.com/93734334/152267832-99a5b85b-7211-4d2e-b34c-442b94494b8e.png)
 
-Rpri = (1/n)^2 x Rl
-n^2 = RL/Rpri
-n^2 = 4/16
+Rpri = (1/n)^2 x Rl                                                                                                                                                               
+n^2 = RL/Rpri                                                                                                                                                                     
+n^2 = 4/16                                                                                                                                                                       
 n = 0.5
 
 **9.76W**
@@ -120,22 +120,34 @@ Psec  = 10A x 2.5KV
 
 Vsec = nVpri
 
-V1 = 0.1(115)
+V1 = 0.1(115)                                                                                                                                                                     
 **V1=11.5V**
 
-V2 = 0.2(115)
+V2 = 0.2(115)                                                                                                                                                                    
 **V1=23V**
 
-V3 = 0.2(115)
+V3 = 0.2(115)                                                                                                                                                                     
 **V1=23V**
 
 V4 = V2 + V3                                                                                                                                                                     
-V4 = 23 + 23
+V4 = 23 + 23                                                                                                                                                                     
 **V4 = 46 V**
 
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
 ![image](https://user-images.githubusercontent.com/93734334/152268083-f88e5f70-b01a-4c6d-94d0-f4ca86b2c0d5.png)
+
+Vsec = nVpri
+
+(a)
+
+Vsec = 0.4(120)                                                                                                                                                                   
+**Vsec = 48V**
+
+(b)
+
+Vsec = 5(5)                                                                                                                                                                       
+**Vsec = 25V**
 
 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
 
@@ -146,6 +158,11 @@ V4 = 23 + 23
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
 
+**Respuesta**
+
+Se extrae corriente primaria en exceso, potencialmente se
+quema la fuente y/o el transformador a menos que se proteja
+el primario con un fusible.
 
 4. VIDEO
 
