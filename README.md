@@ -43,25 +43,25 @@ Objetivo Específico
 
 mH=(1 H)/1*(1000 mH)/(1 H)
 
-**mH=1000 mH
+**mH=1000 mH**
 
 (b) 250 μH
 
 mH=(250 μH)/1*(1 mH)/(1000 μH)
 
-**mH=0.25 mH
+**mH=0.25 mH**
 
 (c)10 μH
 
 mH=10μH/1*(1 mH)/1000μH
 
-**mH=0.01 mH
+**mH=0.01 mH**
 
 (d) 0.0005 H
 
 mH=(0.0005 H)/1*(1000 mH)/(1 H)
 
-**mH=0.5 mH
+**mH=0.5 mH**
 
 3. ¿Cuál es el voltaje en una bobina cuando di/dt 10 mA/ms y L 5 mH?
 
@@ -69,7 +69,7 @@ Vind=L*di/dt
 
 Vind=5 mH*10 mA/ms
 
-**Vind=50 mV
+**Vind=50 mV**
 
 5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
 
@@ -79,7 +79,7 @@ Vind=L*di/dt
 
 Vind=100 mH*0.2  mA/ms
 
-**Vind=20 mV
+**Vind=20 mV**
 
 7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?
 
@@ -87,13 +87,13 @@ W=1/2*L*I^2
 
 W=1/2*4.7 mH*〖(20 mA)〗^2
 
-**W=940 mJ
+**W=940 mJ**
 
 9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa  150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa  200).
 
-**Respuesta: La inductancia del inductor 1 es mayor que la inductancia del inductor 2 ya que L=(N^2*μ*A)/l, siendo L directamente proporcional a μ: la permeabilidad. Si 150/200=3/4, se concluye que la inductancia del inductor 2 es los 3/4 de la inductancia del inductor 1. 
+**Respuesta: La inductancia del inductor 1 es mayor que la inductancia del inductor 2 ya que L=(N^2*μ*A)/l, siendo L directamente proporcional a μ: la permeabilidad. Si 150/200=3/4, se concluye que la inductancia del inductor 2 es los 3/4 de la inductancia del inductor 1. **
 
-**SECCIÓN 13–3 Inductores en serie y en paralelo
+**SECCIÓN 13–3 Inductores en serie y en paralelo**
 
 11. Se conectan cinco inductores en serie. El valor más bajo es de 5 μH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?
 
@@ -101,7 +101,7 @@ L_T=L_1+L_2+L_3+⋯+L_n
 
 L_T=(5+10+20+40+80)  μH
 
-**L_T=155 μH
+**L_T=155 μH**
 
 13. Determine la inductancia total en la figura 13-44.
 
@@ -113,7 +113,7 @@ L_T=L_1+L_2+L_3+⋯+L_n
 
 L_T=(50+0.5+0.01)mH
 
-**L_T=50.51 mH
+**L_T=50.51 mH**
 
 15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 μH, 50 μH, 25 μH, y 15 μH.
 
@@ -123,7 +123,7 @@ L_T=(50+0.5+0.01)mH
 
 1/L_T =7/50  μH
 
-**L_T=50/7  μH=7.14 μH
+**L_T=50/7  μH=7.14 μH**
 
 17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.
 
@@ -143,7 +143,7 @@ L_T=L_1+L_2+L_3+⋯+L_n
 
 L_T=(3.33+1)H
 
-**L_T=4.33 H
+**L_T=4.33 H**
 
 
 (b)
@@ -160,7 +160,7 @@ L_T=100 mH
 
 1/L_T =2/100 mH
 
-**L_T =100/2 mH=50 mH
+**L_T =100/2 mH=50 mH**
 
 (c)
 
@@ -170,9 +170,9 @@ L_T=100 mH
 
 1/L_T =7/400 μH
 
-**L_T =400/7 μH=57.14 μH
+**L_T =400/7 μH=57.14 μH**
 
-**SECCIÓN 13–4 Inductores en circuitos de cd
+**SECCIÓN 13–4 Inductores en circuitos de cd**
 
 19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:
 
@@ -184,7 +184,7 @@ T=L/R
 
 T=(0.0001 H)/(100 Ω)
 
-**T=0.000001 s=1 μs
+**T=0.000001 s=1 μs**
 
 (b) R = 4.7 kΩ, L= 10 mH.
 
@@ -196,7 +196,7 @@ T=L/R
 
 T=(0.01 H)/(4700 Ω)
 
-**T=0.000002128 s=2.13 μs
+**T=0.000002128 s=2.13 μs**
 
 (c) R = 1.5 MΩ, L= 3 H.
 
@@ -206,7 +206,7 @@ T=L/R
 
 T=(3 H)/(1500000 Ω)
 
-**T=0.000002 s=2 μs
+**T=0.000002 s=2 μs**
 
 21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:
 
