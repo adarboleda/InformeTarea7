@@ -118,6 +118,21 @@ Psec  = 10A x 2.5KV
 
 ![image](https://user-images.githubusercontent.com/93734334/152268042-e30ed157-afdd-49b9-96f3-29927091327b.png)
 
+Vsec = nVpri
+
+V1 = 0.1(115)
+**V1=11.5V**
+
+V2 = 0.2(115)
+**V1=23V**
+
+V3 = 0.2(115)
+**V1=23V**
+
+V4 = V2 + V3                                                                                                                                                                     
+V4 = 23 + 23
+**V4 = 46 V**
+
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
 
 ![image](https://user-images.githubusercontent.com/93734334/152268083-f88e5f70-b01a-4c6d-94d0-f4ca86b2c0d5.png)
