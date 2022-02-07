@@ -151,8 +151,18 @@ Vsec = 5(5)
 
 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
 
+![image](https://user-images.githubusercontent.com/93734334/152712024-36fd58ab-9a53-4524-9d70-ddf154d4b82d.png)
+
 (a) Todos los voltajes y corrientes presentes en la carga                                                                                                                         
 (b) La resistencia reflejada en el primario
+
+**(a)**
+
+VRL = 35 V, IRL = 2.92 A, VC = 15 V, IC = 1.5 A
+
+**(b)**
+
+34.5 ohm
 
 **SECCIÓN 14–9 Localización de fallas**
 
