@@ -178,13 +178,14 @@ VRL = 35 V, IRL = 2.92 A, VC = 15 V, IC = 1.5 A
 
 **Respuesta**
 
-Se extrae corriente primaria en exceso, potencialmente se
-quema la fuente y/o el transformador a menos que se proteja
-el primario con un fusible.
+Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible.
 
 4. VIDEO
 
 5. CONCLUSIONES
+
+* En conclusión, una carga conectada a través del devanado secundario de un transformador parece tener una resistencia que no es necesariamente igual a la resistencia real de la carga. La carga real por así decirlo se refleja en el lado primario conforme lo determina la relación de vueltas. Y esta carga reflejada es lo que la fuente primaria ve efectivamente, y va a ser la que determina la cantidad de corriente en el primario.
+* También se tiene que una aplicación de los transformadores se puede observar en la igualación de impedancia que consiste en la igualación de una resistencia de carga frente a una resistencia de fuente para así lograr una transferencia de potencia máxima.
 
 6. BIBLIOGRAFÍA
 
