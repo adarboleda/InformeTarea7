@@ -290,26 +290,25 @@ n^2 = 10/3
 
 ![image](https://user-images.githubusercontent.com/93734334/152267832-99a5b85b-7211-4d2e-b34c-442b94494b8e.png)
 
-Rpri = (1/n)^2 x Rl                                                                                                                                                               
-n^2 = RL/Rpri                                                                                                                                                                     
-n^2 = 4/16                                                                                                                                                                       
-n = 0.5
-
-**9.76W**
+Ip = 25/16=1.56A
+Ps = Vp*Ip
+Ps=25V*1.56A
+Ps=39/4Ω
+**Ps=9.76W**
 
 **SECCIÓN 14–7 Características de un transformador no ideal**
 
 21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
 
-**Respuesta**
+Ps=100w-5.5w
 
-94.5 W
+**Ps=94.5 W**
 
 23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
 
-**Respuesta**
+100%-2%
 
-0.98
+**0.98**
 
 25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
 
