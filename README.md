@@ -248,19 +248,30 @@ Vpri = 12x20
 
 ![image](https://user-images.githubusercontent.com/93734334/152267676-39089dcb-4cc3-4376-800e-55dfe68776a9.png)
 
-**Respuesta**
+(a) 
 
-(a)
-**25mA**
+Ipr/Ise=n                                                                                                                                                                         
+Ipr=(1/2)*50mA                                                                                                                                                                   
+**Ipr = 25 mA**
 
-(b)
-**50mA**
+(b) 
 
-(c)
-**15**
+Isec=(1/n)*Iri                                                                                                                                                                   
+Isec=(2)* 25 mA                                                                                                                                                                   
+**Isec=50 mA**
+
+(c) 
+
+Vse/Vpr=Nse/Np                                                                                                                                                                   
+Vse=(Nse/Np)*Vpr                                                                                                                                                                 
+Vse=(1/2)*30                                                                                                                                                                     
+**Vse = 15V**
 
 (d)
-**750mW**
+
+P=V*I                                                                                                                                                                             
+P= 30 * 25mA                                                                                                                                                                     
+**P= 750 mW**
 
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?
 
