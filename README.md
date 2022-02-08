@@ -349,16 +349,28 @@ Vsec = 5(5)
 
 ![image](https://user-images.githubusercontent.com/93734334/152712024-36fd58ab-9a53-4524-9d70-ddf154d4b82d.png)
 
-(a) Todos los voltajes y corrientes presentes en la carga                                                                                                                         
+(a) Todos los voltajes y corrientes presentes en la carga   
+
+Vs/Vp = Ns/Np                                                                                                                                                                     
+Vs=n*Vp                                                                                                                                                                           
+Vs=(700/1200)*60 = 35v                                                                                                                                                           
+**VRL=35v**
+
+I=V/R = 35/12 = 2.91A                                                                                                                                                            
+**IRL=2,92A**
+
+Vc=n*Vp                                                                                                                                                                           
+Vs=(300/1200)*60                                                                                                                                                                 
+**Vc=15v**
+
+Ic=15/10                                                                                                                                                                         
+**Ic=1.5A**
+
 (b) La resistencia reflejada en el primario
 
-**(a)**
-
-VRL = 35 V, IRL = 2.92 A, VC = 15 V, IC = 1.5 A
-
-**(b)**
-
-34.5 ohm
+Rp=(1/n)^2*Rl                                                                                                                                                                     
+Pp = (1/0.58)^2*12                                                                                                                                                               
+**R=34.5**
 
 **SECCIÓN 14–9 Localización de fallas**
 
