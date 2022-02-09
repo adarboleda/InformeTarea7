@@ -45,6 +45,8 @@ Objetivo Específico
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+**CAPITULO 13**
+
 **SECCIÓN 13–1 El inductor básico**
 
 1. Convierta los siguientes valores en milihenries:
@@ -95,13 +97,13 @@ Vind=100 mH*0.2  mA/ms
 
 W=1/2*L*I^2
 
-W=1/2*4.7 mH*〖(20 mA)〗^2
+W=1/2*4.7 mH*(20 mA)^2
 
 **W=940 mJ**
 
 9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa  150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa  200).
 
-**Respuesta: La inductancia del inductor 1 es mayor que la inductancia del inductor 2 ya que L=(N^2*μ*A)/l, siendo L directamente proporcional a μ: la permeabilidad. Si 150/200=3/4, se concluye que la inductancia del inductor 2 es los 3/4 de la inductancia del inductor 1. **
+**Respuesta: La inductancia del inductor 1 es mayor que la inductancia del inductor 2 ya que L=(N^2*μ*A)/l, siendo L directamente proporcional a μ: la permeabilidad. Si 150/200=3/4, se concluye que la inductancia del inductor 2 es los 3/4 de la inductancia del inductor 1.**
 
 **SECCIÓN 13–3 Inductores en serie y en paralelo**
 
@@ -222,6 +224,101 @@ T=(3 H)/(1500000 Ω)
 
 ![imagen](https://user-images.githubusercontent.com/93879569/152888348-860aa2d3-4d35-4ff4-bdc1-17839e9d08b3.png)
 
+23. Repita el problema 21 para los siguientes instantes:  
+
+25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+![image](https://user-images.githubusercontent.com/93733175/153099779-f7b7f725-3890-4cb0-bf63-a66a18b7ed57.png)
+
+27. Determine la constante de tiempo para el circuito de la figura 13-50.
+
+![image](https://user-images.githubusercontent.com/93733175/153100109-0545cf00-4dd4-4509-8f08-5a6ab9255386.png)
+
+![image](https://user-images.githubusercontent.com/93733175/153100170-b02beeba-7872-461f-a538-b577dbbe208d.png)
+
+29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5Ƭ y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
+
+**SECCIÓN 13–5 Inductores en circuitos de ca**
+
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
+
+![image](https://user-images.githubusercontent.com/93733175/153100373-52bc3c7f-d200-4575-a7ed-7de391bf3a53.png)
+
+Para el circuito a:
+
+LT = 33.33 + 24 = 57.33 mH
+
+XL = 2πfL = 2π * 400Hz * 57.33mH = **144 Ω**
+
+Para el circuito b:
+
+LT = 4mH
+
+XL = 2πfL = 2π * 400Hz * 4mH = **10 Ω**
+
+Para el circuito c:
+
+LT = 1.33 + 4 = 5.33 mH
+
+XL = 2πfL = 2π * 400Hz * 5.33mH = **13.4 Ω**
+
+33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?
+
+![image](https://user-images.githubusercontent.com/93733175/153100473-e5a798d1-149a-4f88-a111-375e16c2a29c.png)
+
+![image](https://user-images.githubusercontent.com/93733175/153100500-052c60aa-0e02-4ab0-9b66-657d8499a68f.png)
+
+Para el circuito a:
+
+![image](https://user-images.githubusercontent.com/93733175/153100557-4e65dcf6-5971-4eaf-b508-e6a0435f69ea.png)
+
+Para el circuito b:
+
+![image](https://user-images.githubusercontent.com/93733175/153100584-1d532f24-56a4-4a29-ade0-1f602b031c52.png)
+
+Para el circuito c:
+
+![image](https://user-images.githubusercontent.com/93733175/153100597-3b431fe5-1c38-44ba-98ee-1073c07f54cc.png)
+
+35. Determine IL2 en la figura 13-52.
+
+![image](https://user-images.githubusercontent.com/93733175/153100640-f8706577-2482-446e-a1db-6275c9154879.png)
+
+**CAPITULO 14**
+
+**SECCIÓN 14–1 Inductancia mutua**
+
+1. ¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 µH, y L2 = 4 µH?
+
+![image](https://user-images.githubusercontent.com/93733175/153100803-e723d451-95af-4a10-992d-78e0962066b5.png)
+
+**SECCIÓN 14–2 El transformador básico**
+
+3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+![image](https://user-images.githubusercontent.com/93733175/153100869-c651432b-09f7-469a-a254-fa353fbf0327.png)
+
+5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
+
+![image](https://user-images.githubusercontent.com/93733175/153100901-e9b24d27-9cac-4076-8032-f45bb44c8d29.png)
+
+**Respuesta**
+
+(a) 00 V rms; en fase 
+
+(b) 100 V rms; desfasado 
+
+(c) 20 V rms; desfasado
+
+**SECCIÓN 14–3 Transformadores elevadores y reductores**
+
+7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+
+![image](https://user-images.githubusercontent.com/93733175/153101021-bb4c2b09-15fb-417b-8464-c7b25c4c4e4e.png)
+
+9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/93733175/153101071-38331a21-ae00-4c65-a5be-0ca2f0928190.png)
 
 **SECCIÓN 14–3 Transformadores elevadores y reductores**
 
@@ -412,6 +509,9 @@ Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el
 
 * El calculo de la inductancia total es similar al cálculo de la resistencia ya que la inductancia total es la sumatoria se todas sus inductancias cuando se encuentran en serie mientras que la inductancia total cuando se encuentran en paralelo es la sumatoria de los recíprocos de cada inductancia. También, la relación entre la inductancia y la resistencia permite hallar la constante de tiempo RL que se refiere al tiempo que se demora para que la corriente cambie su valor a otro debido al voltaje producido por el inductor que se opone a la corriente.
 
+* Tenemos que un transformador donde el voltaje secundario es menor que el voltaje primario se llama transformador reductor, donde la cantidad en que se reduce el voltaje depende de la relación de vueltas. La relación de vueltas de un transformador reductor siempre es menor que 1 porque el número de vueltas en el devanado secundario siempre es menor que el número de vueltas en el devanado primario.
+
+* Los inductores no son tan versátiles como los capacitores y tienden a estar más limitados en sus aplicaciones debido en parte a su tamaño, a factores de costos y a su comportamiento no ideal (resistencia interna, etc.). Una de las aplicaciones más comunes de los inductores es para reducir el ruido en los dispositivos eléctricos.
 
 6. BIBLIOGRAFÍA
 
