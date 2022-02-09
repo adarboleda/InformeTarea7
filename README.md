@@ -23,6 +23,16 @@ Objetivo Específico
 
 ![imagen](https://user-images.githubusercontent.com/93879569/152887780-8f8d3c2b-bf3f-400a-be65-bd9f395169cf.png)
 
+![image](https://user-images.githubusercontent.com/93733175/153098905-10c871cf-f221-4aa6-bc23-ba6d1f640874.png)
+
+![image](https://user-images.githubusercontent.com/93733175/153098950-7fc7d164-1122-4d41-bbcb-737ef10ff3c4.png)
+
+![image](https://user-images.githubusercontent.com/93733175/153099048-becf1a5e-dce2-4450-8f69-d2ba8e87954d.png)
+
+![image](https://user-images.githubusercontent.com/93733175/153099083-a956669e-c2b1-4c69-86a7-b0f3b61ed782.png)
+
+![image](https://user-images.githubusercontent.com/93733175/153099109-386d7266-2525-4283-acc1-91b49a0def91.png)
+
 ![image](https://user-images.githubusercontent.com/93734334/152250619-5a6b68e1-e911-44e2-abb5-da2f26a037af.png)
 
 ![image](https://user-images.githubusercontent.com/93734334/152252926-599fd093-a7f4-4db1-9a39-de887ef086d3.png)
