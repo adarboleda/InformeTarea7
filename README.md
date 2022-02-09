@@ -224,9 +224,10 @@ T=(3 H)/(1500000 Ω)
 
 ![imagen](https://user-images.githubusercontent.com/93879569/152888348-860aa2d3-4d35-4ff4-bdc1-17839e9d08b3.png)
 
-23. Repita el problema 21 para los siguientes instantes:  
+23. Repita el problema 21 para los siguientes instantes: 
 
-25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+25.   En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
 ![image](https://user-images.githubusercontent.com/93733175/153099779-f7b7f725-3890-4cb0-bf63-a66a18b7ed57.png)
 
