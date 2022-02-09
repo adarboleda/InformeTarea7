@@ -223,13 +223,17 @@ T=(3 H)/(1500000 Ω)
 
 ![image](https://user-images.githubusercontent.com/93733175/153099779-f7b7f725-3890-4cb0-bf63-a66a18b7ed57.png)
 
+![image](https://user-images.githubusercontent.com/93733175/153119259-155be7f8-9a93-482d-91ab-49584554b6c4.png)
 
 23. Repita el problema 21 para los siguientes instantes: 
+
+![image](https://user-images.githubusercontent.com/93733175/153119634-1f66ffa3-b529-4a0c-a54f-79d3b151308b.png)
 
 25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
 
 ![image](https://user-images.githubusercontent.com/93733175/153099779-f7b7f725-3890-4cb0-bf63-a66a18b7ed57.png)
 
+![image](https://user-images.githubusercontent.com/93733175/153119907-4fd38857-0714-4c00-bb6b-6f3cb9613416.png)
 
 27. Determine la constante de tiempo para el circuito de la figura 13-50.
 
@@ -238,6 +242,16 @@ T=(3 H)/(1500000 Ω)
 ![image](https://user-images.githubusercontent.com/93733175/153100170-b02beeba-7872-461f-a538-b577dbbe208d.png)
 
 29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5Ƭ y se abre. ¿Cuál es la corriente en el inductor 1.0 µs después de que se abre el interruptor?
+
+![image](https://user-images.githubusercontent.com/93733175/153121084-9318c926-566c-4011-b75c-cf55bb9fa49f.png)
+
+**La corriente final es:**
+
+![image](https://user-images.githubusercontent.com/93733175/153121297-27813b27-db63-40a3-bc1b-ddfab8e3ab90.png)
+
+**La cooriente en el instante 1.0 µs**
+
+![image](https://user-images.githubusercontent.com/93733175/153121375-abd71a04-4800-43e5-8c0a-8f0b400a7ac0.png)
 
 **SECCIÓN 13–5 Inductores en circuitos de ca**
 
@@ -284,6 +298,8 @@ Para el circuito c:
 35. Determine IL2 en la figura 13-52.
 
 ![image](https://user-images.githubusercontent.com/93733175/153100640-f8706577-2482-446e-a1db-6275c9154879.png)
+
+![image](https://user-images.githubusercontent.com/93733175/153120395-2a953bee-46d8-4694-bcf0-8035a5360679.png)
 
 **CAPITULO 14**
 
