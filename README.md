@@ -247,11 +247,11 @@ T=(3 H)/(1500000 Ω)
 
 **La corriente final es:**
 
-![image](https://user-images.githubusercontent.com/93733175/153121297-27813b27-db63-40a3-bc1b-ddfab8e3ab90.png)
+![image](https://user-images.githubusercontent.com/93733175/153121673-e01aa6c5-a403-49eb-ada0-bf42a6a2e714.png)
 
-**La cooriente en el instante 1.0 µs**
+**La corriente en el instante 1.0 µs**
 
-![image](https://user-images.githubusercontent.com/93733175/153121375-abd71a04-4800-43e5-8c0a-8f0b400a7ac0.png)
+![image](https://user-images.githubusercontent.com/93733175/153121693-c9dcb154-d2e1-4cbc-bde0-97e9104990c1.png)
 
 **SECCIÓN 13–5 Inductores en circuitos de ca**
 
