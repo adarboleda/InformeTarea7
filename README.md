@@ -223,7 +223,77 @@ T=(3 H)/(1500000 Ω)
 
 ![image](https://user-images.githubusercontent.com/93733175/153099779-f7b7f725-3890-4cb0-bf63-a66a18b7ed57.png)
 
-![image](https://user-images.githubusercontent.com/93733175/153119259-155be7f8-9a93-482d-91ab-49584554b6c4.png)
+(a)10 μs
+
+v=15 V (e^((-Rt)/L))
+
+T=L/R
+
+T=0.010H/(1000 Ω)
+
+T=10 μs
+
+v=15 V (e^((-10)/10))
+
+**v= 5.518 V**
+
+(b) 20 μs
+
+v=15 V (e^((-Rt)/L))
+
+T=L/R
+
+T=0.010H/(1000 Ω)
+
+T=10 μs
+
+v=15 V (e^((-20)/10))
+
+**v= 2.03 V**
+
+
+(c) 30 μs
+
+v=15 V (e^((-Rt)/L))
+
+T=L/R
+
+T=0.010H/(1000 Ω)
+
+T=10 μs
+
+v=15 V (e^((-30)/10))
+
+**v= 0.746806 V**
+
+(d) 40 μs
+
+v=15 V (e^((-Rt)/L))
+
+T=L/R
+
+T=0.010H/(1000 Ω)
+
+T=10 μs
+
+v=15 V (e^((-40)/10))
+
+**v= 0.274735 V**
+
+(e) 50 μs
+
+v=15 V (e^((-Rt)/L))
+
+T=L/R
+
+T=0.010H/(1000 Ω)
+
+T=10 μs
+
+v=15 V (e^((-50)/10))
+
+**v= 0.101069 V**
+
 
 23. Repita el problema 21 para los siguientes instantes: 
 
